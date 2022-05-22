@@ -286,6 +286,8 @@
   min-height: 350px;
   padding-top: 60px;
   padding-bottom: 40px;
+  display: flex;
+  box-sizing: border-box;
 }
 
 .footer__columns {
@@ -295,7 +297,6 @@
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 .footer__column_content_copyright {
